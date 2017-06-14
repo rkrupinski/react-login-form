@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Root should render correctly 1`] = `
+<Provider
+  store={
+    Object {
+      "dispatch": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+      Symbol(Symbol.observable): [Function],
+    }
+  }
+>
+  <ThemeProvider
+    theme={
+      Object {
+        "bpLarge": "1200px",
+        "bpMedium": "992px",
+        "bpSmall": "768px",
+        "cols": 12,
+        "errorColor": "tomato",
+        "gutter": "15px",
+        "headingColor": "lightgrey",
+        "primaryColor": "lightgrey",
+        "successColor": "green",
+        "textColor": "#666",
+        "wLarge": "1170px",
+        "wMedium": "970px",
+        "wSmall": "750px",
+      }
+    }
+  >
+    <LoginScreen />
+  </ThemeProvider>
+</Provider>
+`;

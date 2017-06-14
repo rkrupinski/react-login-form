@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Label should render correctly 1`] = `
+<label
+  className="gGZfep"
+  htmlFor="foo"
+>
+  Lorem ipsum
+</label>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Msg should render correctly 1`] = `
+<styled.p
+  type="success"
+>
+  <h1>
+    Lorem ipsum
+  </h1>
+</styled.p>
+`;
+
+exports[`Msg should render correctly 2`] = `
+<styled.p
+  type="error"
+>
+  <h1>
+    Lorem ipsum
+  </h1>
+</styled.p>
+`;

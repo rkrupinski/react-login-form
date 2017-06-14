@@ -1,0 +1,2 @@
+export const AUTH_SUCCESSFUL = 'AUTH_SUCCESSFUL';
+export const AUTH_ERROR = 'AUTH_ERROR';

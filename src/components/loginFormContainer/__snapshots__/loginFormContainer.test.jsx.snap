@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginFormContainer handle the authenticated case correctly 1`] = `
+<p
+  className="fJygQn"
+  type="success"
+>
+  Login successful
+</p>
+`;
+
+exports[`LoginFormContainer handle the unauthenticated case correctly 1`] = `
+<div
+  className="enZFBb"
+>
+  <h1
+    className="OEbrL"
+  >
+    <span>
+      foo
+    </span>
+  </h1>
+  <h1>
+    Lorem ipsum
+  </h1>
+</div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid should render correctly 1`] = `
+<div
+  className="fZysxz"
+>
+  <h1>
+    Lorem ipsum
+  </h1>
+</div>
+`;

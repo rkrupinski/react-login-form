@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Col should render correctly with props 1`] = `
+<div
+  className="hDcSZq"
+>
+  <h1>
+    Lorem ipsum
+  </h1>
+</div>
+`;
+
+exports[`Col should render correctly without props 1`] = `
+<div
+  className="hKVbzg"
+>
+  <h1>
+    Lorem ipsum
+  </h1>
+</div>
+`;

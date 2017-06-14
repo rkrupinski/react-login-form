@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginScreen should render correctly 1`] = `
+<styled.div>
+  <styled.div>
+    <styled.div
+      md={6}
+      mdOffset={3}
+      sm={8}
+      smOffset={2}
+    >
+      <Connect(branch(LoginFormContainer))
+        title="Hello again"
+      >
+        <Connect(withState(withState(withPropsOnChange(withHandlers(LoginForm))))) />
+      </Connect(branch(LoginFormContainer))>
+    </styled.div>
+  </styled.div>
+</styled.div>
+`;

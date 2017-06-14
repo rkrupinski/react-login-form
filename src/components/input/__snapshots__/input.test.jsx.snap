@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input should render correctly 1`] = `
+<input
+  className="jpmZcP"
+  name="email"
+  type="email"
+/>
+`;
+
+exports[`Input should render correctly 2`] = `
+<input
+  className="jpmZcP"
+  name="password"
+  type="password"
+/>
+`;

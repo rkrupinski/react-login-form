@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginForm should render correctly with auth error 1`] = `
+<form
+  noValidate={true}
+  onSubmit={[Function]}
+>
+  <p
+    className="fJygQn"
+    type="error"
+  >
+    Invalid email or password
+  </p>
+  <div
+    className="bAxRVC"
+  >
+    <div
+      className="gxCkEM"
+    >
+      <label
+        className="gGZfep"
+        htmlFor="email"
+      >
+        Email:
+      </label>
+      <input
+        className="jpmZcP"
+        id="email"
+        name="email"
+        onChange={[Function]}
+        type="email"
+      />
+    </div>
+    <div
+      className="gxCkEM"
+    >
+      <label
+        className="gGZfep"
+        htmlFor="password"
+      >
+        Password:
+      </label>
+      <input
+        className="jpmZcP"
+        id="password"
+        name="password"
+        onChange={[Function]}
+        type="password"
+      />
+    </div>
+  </div>
+  <div
+    className="bAxRVC"
+  >
+    <div
+      className="hmkMuH"
+    >
+      <label
+        className="ieGGlk"
+        htmlFor="remember"
+      >
+        <input
+          id="remember"
+          name="remember"
+          type="checkbox"
+        />
+        Remember me
+      </label>
+      <button
+        className="dVTSea"
+        type="submit"
+      >
+        Log in
+      </button>
+    </div>
+  </div>
+</form>
+`;
+
+exports[`LoginForm should render correctly with no error 1`] = `
+<form
+  noValidate={true}
+  onSubmit={[Function]}
+>
+  <div
+    className="bAxRVC"
+  >
+    <div
+      className="gxCkEM"
+    >
+      <label
+        className="gGZfep"
+        htmlFor="email"
+      >
+        Email:
+      </label>
+      <input
+        className="jpmZcP"
+        id="email"
+        name="email"
+        onChange={[Function]}
+        type="email"
+      />
+    </div>
+    <div
+      className="gxCkEM"
+    >
+      <label
+        className="gGZfep"
+        htmlFor="password"
+      >
+        Password:
+      </label>
+      <input
+        className="jpmZcP"
+        id="password"
+        name="password"
+        onChange={[Function]}
+        type="password"
+      />
+    </div>
+  </div>
+  <div
+    className="bAxRVC"
+  >
+    <div
+      className="hmkMuH"
+    >
+      <label
+        className="ieGGlk"
+        htmlFor="remember"
+      >
+        <input
+          id="remember"
+          name="remember"
+          type="checkbox"
+        />
+        Remember me
+      </label>
+      <button
+        className="dVTSea"
+        type="submit"
+      >
+        Log in
+      </button>
+    </div>
+  </div>
+</form>
+`;

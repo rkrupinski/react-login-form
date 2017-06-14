@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AuthSuccessfulMsg should render correctly 1`] = `
+<Msg
+  type="success"
+>
+  Login successful
+</Msg>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ValidatorOutlet should render correctly 1`] = `
+<span
+  className="guGSmZ"
+>
+  Lorem ipsum
+</span>
+`;

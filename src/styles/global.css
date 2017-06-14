@@ -1,0 +1,19 @@
+html {
+  font: 14px/1.618 'Roboto', sans-serif;
+}
+
+@keyframes move {
+  to { background-position: 4px 0; }
+}
+
+body {
+  background-image: linear-gradient(45deg,
+                                  white,
+                                  lightgrey,
+                                  white,
+                                  lightgrey,
+                                  white);
+  background-size: 4px 4px;
+  animation: move 0.5s infinite linear;
+  color: #666;
+}

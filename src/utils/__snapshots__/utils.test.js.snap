@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cols should return proper CSS string 1`] = `"calc((100% - 0.1px) / 12 * 3);"`;
+
+exports[`mq should render rules wrapped in a media querry 1`] = `
+"@media (min-width: 768px) { 
+      display: flex;
+     }"
+`;
