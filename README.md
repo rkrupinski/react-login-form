@@ -11,7 +11,7 @@ $ yarn && yarn start
 Build:
 
 ```sh
-& yarn run build
+$ yarn run build
 ```
 
 Test:
